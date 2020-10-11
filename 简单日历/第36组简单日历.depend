@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1514042647 source:d:\学习基地\hello\综合实验\第36组简单日历（侯新乾梁俊伟）\main.c
+	<conio.h>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+
